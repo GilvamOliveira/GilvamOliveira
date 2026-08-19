@@ -1,37 +1,64 @@
-# Oi, sou o Gilvam!  
+<div align="center">
 
-Sou um Analista de dados em constante evolução e por aqui compartilho os meus projetos!  
+# Gilvam Oliveira
 
-Minha trajetória inclui experiência em projetos de:  
-- *Análise de dados com Python e Power BI*,
- - *Banco de dados relacionais com MySQL*,  
-- *Integração de sistemas e conexão de dados por meio de APIs*.  
+### Desenvolvedor em formação | C# • .NET • JavaScript • Python
 
----
+Estudante de Tecnologia com foco em desenvolvimento de software,
+programação e construção de soluções através da tecnologia.
 
-# 🛠 Tecnologias e Ferramentas  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvam-oliveira)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oliveiragilvam70@gmail.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![API Integration](https://img.shields.io/badge/API%20Integration-FF6B6B?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+</div>
 
 ---
 
- # Estou Estudando  
+## Sobre mim
 
-- Análise de Dados com Python
-- MySQL
-- Integração de *APIs*  
-- *Bancos de dados relacionais*
-  
+Sou um profissional em constante evolução na área de Tecnologia da Informação,
+atualmente direcionando minha formação para **desenvolvimento de software**.
+
+Faço parte do **Instituto PROA**, onde venho desenvolvendo conhecimentos
+em desenvolvimento web, lógica de programação e **C#/.NET**.
+
+Tenho também conhecimentos e estudos em **Python, SQL, MySQL, Power BI e APIs**,
+buscando transformar cada aprendizado em projetos práticos e construir
+uma base sólida para minha carreira em tecnologia.
+
 ---
 
-#  Sinta-se à vontade para entrar em contato:
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvam-oliveira?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiragilvam70@gmail.com)    
+### Desenvolvimento
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Atualmente
+
+```text
+C# / .NET          ███████████████░░░░░
+JavaScript         █████████████░░░░░░░
+HTML / CSS         ███████████████░░░░░
+Python             ███████████░░░░░░░░░
+SQL / MySQL        ███████████░░░░░░░░░
+Power BI           █████████░░░░░░░░░░░
+APIs               ████████░░░░░░░░░░░░
