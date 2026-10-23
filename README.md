@@ -4,7 +4,8 @@
 
 **Desenvolvedor em formação | Back-end e dados**
 
-Estudante do Instituto PROA, na turma de C#, com projetos em Java, Python e JavaScript.
+Formado em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul (2024)
+e estudante do Instituto PROA, com projetos em Java, Python e JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvam-oliveira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oliveiragilvam70@gmail.com)
@@ -42,6 +43,7 @@ C# · Java · Spring Boot · Python · Node.js · MySQL · SQLite · Pandas · S
 
 ## Formação
 
+- **Tecnólogo em Gestão da Tecnologia da Informação** — Universidade Cruzeiro do Sul (concluído em 2024)
 - **Instituto PROA** — formação em desenvolvimento, com C#, front-end e introdução a banco de dados (em andamento)
 - **Oracle Next Education (ONE) / Alura** — Java, Spring Boot, APIs REST e persistência
 
