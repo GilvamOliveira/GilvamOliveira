@@ -4,7 +4,7 @@
 
 **Desenvolvedor em formação | Back-end e dados**
 
-Estudante do Instituto PROA, na turma de C#, com projetos em Java, Python, JavaScript e SQL.
+Estudante do Instituto PROA, na turma de C#, com projetos em Java, Python e JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvam-oliveira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oliveiragilvam70@gmail.com)
@@ -15,7 +15,7 @@ Estudante do Instituto PROA, na turma de C#, com projetos em Java, Python, JavaS
 
 ## Sobre
 
-Minha formação passa por back-end, front-end, design e dados, e hoje meu foco é banco de dados.
+Minha formação passa por back-end, front-end, design e dados, e agora estou aprofundando meus estudos em banco de dados.
 Gosto de levar cada estudo até o fim: código organizado, testes, documentação e demonstração funcionando.
 
 ## Stack
@@ -42,11 +42,11 @@ C# · Java · Spring Boot · Python · Node.js · MySQL · SQLite · Pandas · S
 
 ## Formação
 
-- **Instituto PROA** — formação em desenvolvimento, com C#, front-end e banco de dados (em andamento)
+- **Instituto PROA** — formação em desenvolvimento, com C#, front-end e introdução a banco de dados (em andamento)
 - **Oracle Next Education (ONE) / Alura** — Java, Spring Boot, APIs REST e persistência
 
 ## Também no GitHub
 
-[Portfólio de Design](https://github.com/GilvamOliveira/design-portfolio) · [Estudos de Banco de Dados](https://github.com/GilvamOliveira/estudos-banco-de-dados) · [HTML5 e CSS3](https://github.com/GilvamOliveira/HTML5-CSS3-Exercises-PROA)
+[Portfólio de Design](https://github.com/GilvamOliveira/design-portfolio) · [HTML5 e CSS3](https://github.com/GilvamOliveira/HTML5-CSS3-Exercises-PROA)
 
 Aberto a oportunidades de estágio e posições júnior em desenvolvimento de software.
