@@ -5,7 +5,7 @@
 **Desenvolvedor em formação | Back-end e dados**
 
 Estudante do Instituto PROA, construindo projetos em C#, Python e JavaScript.
-Cada projeto é documentado com README, testes e demonstração de uso.
+Os projetos em destaque incluem README, testes e demonstração de uso.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvam-oliveira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oliveiragilvam70@gmail.com)
