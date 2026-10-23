@@ -82,6 +82,7 @@ autenticação JWT, ambos com banco relacional e testes de contexto.
 
 ## Outros projetos
 
+- [Portfólio de Design](https://github.com/GilvamOliveira/design-portfolio): protótipos de interfaces no Figma, de telas de login a landing pages e apps.
 - [HTML5 e CSS3 — 70 exercícios](https://github.com/GilvamOliveira/HTML5-CSS3-Exercises-PROA): coleção progressiva com projeto final de site institucional.
 - [Estudos de Banco de Dados](https://github.com/GilvamOliveira/estudos-banco-de-dados): modelagem, SQL e projeto de biblioteca com CI.
 - [Amigo Secreto](https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto): sorteio sem repetição de nomes.
