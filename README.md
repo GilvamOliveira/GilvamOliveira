@@ -45,10 +45,10 @@ C# · Java · Spring Boot · Python · Node.js · MySQL · SQLite · Pandas · S
 
 - **Tecnólogo em Gestão da Tecnologia da Informação** — Universidade Cruzeiro do Sul (concluído em 2024)
 - **Instituto PROA** — formação em desenvolvimento, com C#, front-end e introdução a banco de dados (em andamento)
-- **Oracle Next Education (ONE) / Alura** — Java, Spring Boot, APIs REST e persistência
+- **Oracle Next Education (ONE) / Alura** — Java, Spring Boot e APIs REST.
 
 ## Também no GitHub
 
-[Portfólio de Design](https://github.com/GilvamOliveira/design-portfolio) · [HTML5 e CSS3](https://github.com/GilvamOliveira/HTML5-CSS3-Exercises-PROA)
+[Portfólio de Design](https://github.com/GilvamOliveira/design-portfolio)
 
 Aberto a oportunidades de estágio e posições júnior em desenvolvimento de software.
