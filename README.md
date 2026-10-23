@@ -63,13 +63,6 @@ funcionando. Estou em busca da primeira oportunidade profissional como desenvolv
 
 ## Projetos em destaque
 
-### Garagem Digital
-
-Catálogo mundial de carros organizado por região de origem, com fichas técnicas,
-histórico das marcas, filtros, comparador e configurador visual.
-
-`HTML` `CSS` `JavaScript` · [Código](https://github.com/GilvamOliveira/garagem-digital) · [Demo](https://gilvamoliveira.github.io/garagem-digital/)
-
 ### CRUD de Clientes
 
 Cadastro de clientes com API REST em Node.js e SQLite, paginação, filtros,
